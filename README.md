@@ -21,7 +21,7 @@ minisplit <OPTIONS>
 
 #### Author/Contributors:
 
-* Build by Muhammad Yaseen Rasheed [muhammad.rasheed@mofa.gov.iq], tutored by Alefredo Deza at Duke University.
+* Build by **Muhammad Yaseen Rasheed** [muhammad.rasheed@mofa.gov.iq], tutored by Alefredo Deza at Duke University.
 
 #### License:
 
