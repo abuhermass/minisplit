@@ -1,28 +1,28 @@
- **# minisplit**
+ # minisplit
 
-**Description:**
+#### Description:
 
 * A Rust CLI mini tool to split a string on characters or pattern. Very basic, stripped down version of 'cut' utility.
 
-**Features:**
+#### Features:
 
 * Use command line options, -f for field selection, and -d for pattern spliting.
 
-**Installation:**
+#### Installation:
 
 * Brief instructions on how to install or set up your project.
 
-**Usage:**
+#### Usage:
 
 * Windows:
 ```
 minisplit <OPTIONS>
 ```
 
-**Author/Contributors:**
+#### Author/Contributors:
 
 * Build by Muhammad Yaseen Rasheed [muhammad.rasheed@mofa.gov.iq], tutored by Alefredo Deza at Duke University.
 
-**License:**
+#### License:
 
 * GNU GENERAL PUBLIC LICENSE v3.0
